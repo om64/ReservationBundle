@@ -81,9 +81,9 @@ delete_resource: Supprimer la ressource
 delete_resource_type: Supprimer ce type de ressources
 error_: Erreur
 error:
-  empty_input: Le champs ne doit pas être vide.
+  empty_input: Le champs ne peut pas être vide.
   resource_type_already_exists: Ce type de ressource existe déjà.
-  number_reservations_exceeded: Nombre des réservations dépassées avec cette ressource. Veuillez changer la date à laquelle vous voulez réserver cette ressource.
+  number_reservations_exceeded: Nombre de réservations dépassé avec cette ressource. Veuillez changer la date à laquelle vous voulez réserver cette ressource.
   max_time_reservation_exceeded: Vous avez dépassé le temps maximum de réservation de cette ressource.
 export_resources: Exporter les ressources
 filter:
@@ -119,7 +119,7 @@ import:
     Si le type de ressource n'existe pas, il sera automatiquement créé.
   file: Fichier des ressources
   tv: Télévision
-  tv_localisation: Salle des prof
+  tv_localisation: Salle des profs
 modify_resource_type_name: Modifier le nom
 modify_resource: Modifier une ressource
 no_resources_type_yet: Il n'y a pas encore de ressources pour les réservations.
